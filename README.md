@@ -87,7 +87,7 @@ JARVIS was developed as part of the Mini Project II for Semester 5 and was recog
 
 - **Interactive Games**: Offers narrative-based games such as number guessing and rock-paper-scissors for interactive entertainment.
 
-- **Real-Time Translator**: Facilitates communication by providing real-time translation capabilities.
+- **Real-Time Translator**: Facilitates communication by providing real-time translation capabilities
 
 JARVIS aims to provide users with a comprehensive and intuitive interface for performing various tasks efficiently and enjoying entertainment options seamlessly.
 
